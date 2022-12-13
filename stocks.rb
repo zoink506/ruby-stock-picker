@@ -36,6 +36,7 @@ def stock_picker(days)
   puts "\n"
   p greatest_profit
 
+  greatest_profit
 end
 
 #stock_picker([17,3,6,9,15,8,6,1,10])
